@@ -12,6 +12,10 @@
 
 - [Awesomelist - Social Engineering](https://github.com/v2-dev/awesome-social-engineering)
 
+# Threat Modelling
+
+- [Awesome Threat List](https://github.com/hysnsec/awesome-threat-modelling)
+
 # Infographics
 
 - [Security - Very wide](https://blog.securitybreak.io/security-infographics-9c4d3bd891ef)
