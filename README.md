@@ -1,6 +1,7 @@
 # OSINT
 
 - [Awesome OSINT List](https://github.com/jivoi/awesome-osint)
+- [OSINT for Everything](https://github.com/joe-shenouda/osint-tools)
 
 # Red Teaming
 
