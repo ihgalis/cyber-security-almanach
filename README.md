@@ -32,3 +32,22 @@
 | SecNik                               | [Link Spotify](https://open.spotify.com/show/5iunRrvQDZ2A09l2hJxuku)                        |
 | The Incident Response Podcast        | [Link Spotify](https://open.spotify.com/show/3iwGzcB6KUh6Jds9mGMIsy) |
 | StormCast                            | [Link Spotify](https://open.spotify.com/show/6oeUmMwv1AQpdYNHmOE4A0)                     |
+
+# News Sources & Blogs
+
+| Name                           | URL                                                                                                    |
+|-------------------------------|--------------------------------------------------------------------------------------------------------|
+| IT Security Guru                      | [Link](https://www.itsecurityguru.org/)                |
+| Börzels Blog                     | [Link](https://blog.boerzel.it/home)                |
+| Security Weekly Productions                     | [Link](https://www.scmagazine.com/podcast-subscribe)                |
+| The Hacker News                     | [Link](https://thehackernews.com/)                |
+| CSO Online                     | [Link](https://thehackernews.com/)                |
+| Naked Security                     | [Link](https://nakedsecurity.sophos.com/)                |
+| Cyber Magazine                    | [Link](https://cybermagazine.com/)                |
+| The Last Watchdog                    | [Link](https://www.lastwatchdog.com/)                |
+| Internet Storm Center                     | [Link](https://isc.sans.edu/)                |
+| Security Architecture                     | [Link](https://www.security-architecture.org/blog)                |
+| CIO Series | [Link](https://cisoseries.com/) |
+| Dark Reading | [Link](https://www.darkreading.com/) |
+| HackerOne | [Link](https://www.hackerone.com/vulnerability-and-security-testing-blog) |
+| Security Intelligence | [Link](https://securityintelligence.com/) |
