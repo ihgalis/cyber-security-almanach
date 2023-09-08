@@ -17,6 +17,10 @@
 
 - [Awesome Threat List](https://github.com/hysnsec/awesome-threat-modelling)
 
+# Machine Learning & Security
+
+- [Awesome ML for Cybersecurtiy](https://github.com/jivoi/awesome-ml-for-cybersecurity)
+
 # Infographics
 
 - [Security - Very wide](https://blog.securitybreak.io/security-infographics-9c4d3bd891ef)
