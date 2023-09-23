@@ -9,9 +9,10 @@
 - [Pentest Notes](https://github.com/wwong99/pentest-notes)
 - [RedTeam Cheatsheet](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
 
-# Wordlists
+# Wordlists / Payloads
 
 - [HacktivistRO - Bug Bounty Wordlist](https://github.com/HacktivistRO/Bug-Bounty-Wordlists)
+- [Swissky Repo - PayloadsAllTheThings](https://github.com/swisskyrepo/PayloadsAllTheThings)
 
 # Social Engineering
 
