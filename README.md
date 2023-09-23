@@ -9,6 +9,10 @@
 - [Pentest Notes](https://github.com/wwong99/pentest-notes)
 - [RedTeam Cheatsheet](https://github.com/Kitsun3Sec/Pentest-Cheat-Sheets)
 
+# Wordlists
+
+- [HacktivistRO - Bug Bounty Wordlist](https://github.com/HacktivistRO/Bug-Bounty-Wordlists)
+
 # Social Engineering
 
 - [Awesomelist - Social Engineering](https://github.com/v2-dev/awesome-social-engineering)
